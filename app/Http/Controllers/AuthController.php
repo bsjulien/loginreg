@@ -128,7 +128,7 @@ class AuthController extends Controller
     }
 
     public function leadPage(){
-        return view('pages.student');
+        return view('pages.lead');
     }
 
     /**
